@@ -22,7 +22,11 @@ shinyUI(
                         "V/S" = "vs",
                         "Number of Carburetors" = "carb")
                         ),
-            submitButton('Submit')
+            submitButton('Submit'),
+            wellPanel(
+                    helpText(   a("Link to code on Github",     href="https://github.com/daddyprasad5/dataproductsproject")
+                    )
+            )
     ),
     mainPanel(
         h4('You chose to compare mpg to...'),

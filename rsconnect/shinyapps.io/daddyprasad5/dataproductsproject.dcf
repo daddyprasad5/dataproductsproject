@@ -2,6 +2,8 @@ name: dataproductsproject
 account: daddyprasad5
 server: shinyapps.io
 appId: 122376
-bundleId: 542145
+bundleId: 542361
 url: https://daddyprasad5.shinyapps.io/dataproductsproject/
-when: 1472251690.03367
+when: 1472305617.70666
+asMultiple: FALSE
+asStatic: FALSE

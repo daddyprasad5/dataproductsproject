@@ -1,6 +1,6 @@
 Exploring Mileage Drivers with mtcars
 ========================================================
-author: daddyprasad5
+author: daddyprasad5 
 date: August 27, 2016
 
 Exploring Drivers of Mileage with mtcars
